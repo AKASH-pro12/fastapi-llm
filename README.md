@@ -2,10 +2,6 @@
 
 A FastAPI application that integrates LangChain with a Groq-hosted Qwen LLM to process user questions through an HTTP API.
 
-## What This Project Does
-
-This project exposes a REST API endpoint that accepts a user question and sends it to a Qwen Large Language Model through LangChain and Groq. The generated response is then returned as a JSON response.
-
 ## Technologies Used
 
 - Python
